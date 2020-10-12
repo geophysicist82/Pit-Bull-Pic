@@ -11,7 +11,7 @@ Modeling:
 
 
 Conclusion and future work:
-My current model does a pretty decent job of distinguishing between pit bulls and other dog breeds
+I will keep adding photos to my model and I would like to expand my project to more breeds.
 
 
 sources <p>
